@@ -1,0 +1,13 @@
+mkdir = usado para criar pasta pelo o terminal 
+
+yarn init -y = criar o package.json 
+
+ Dependencies   
+
+yarn add “nome da dependence”
+
+express = micro frame do node que dar algumas funcionalidade padrões de funciões para todo a aplicação. 
+
+nodemon -D = dependence de desenvolvimento para automatizar o reinicio do projeto
+
+comando usado para execulta o arquivo JS pelo o node = node "nome do arquivo".js 
