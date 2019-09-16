@@ -191,3 +191,5 @@ buck-out/
 # Vscode workspaces
 *.code-workspace
 .vscode
+
+tmp/
